@@ -1,0 +1,4 @@
+resolusiku tahun ini
+- belajar lebih back end
+- belajar lebih database
+- belajar membuat aplikasi di android
